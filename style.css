@@ -1,0 +1,107 @@
+%
+
+*{margin:0;
+padding:0;}
+
+
+header{
+
+	width:100%;overflow: hidden;
+}
+
+.container{margin: 20px 79px 14px 105px;
+    }
+
+
+    .logo{
+float:left;
+    	width:20%;margin-top :20px; 	margin-left :20px;
+    }
+    nav {display:inline-block;}
+    nav ul {
+list-style-type:none;  text-align:right;margin-left:240px; }
+    nav ul li{
+float:left;margin:0px 30px;   margin-top :15px; 	margin-left :20px;
+    }
+
+    nav ul li a{
+text-decoration:none;text-transform:uppercase;
+
+    }
+    article{
+    	padding:40px;text-align:justify;margin-right:;width:85%;
+    }
+    article span {
+padding:20px;text-transform:uppercase;color:#01010130
+    }article h2{padding:20px;text-transform:uppercase;font-weight:+900;}
+    article p {padding:20px;
+
+    }
+    article p span{padding:20px;color:#01010130;
+
+text-transform:uppercase;
+    }aside{
+    	width:100%;margin-left:70px;
+    }
+    aside .left-side{
+    	display:inline-block;
+width:40%;
+    }
+   aside .left-side span {
+padding:20px;text-transform:uppercase;color:#01010130;display:inline-block;
+    }
+  aside  .left-side h2{
+padding:5px;text-transform:uppercase;text-transform: capitalize;color:#8F8F8F;
+    }
+  aside  .left-side p{
+
+text-align:justify;
+
+    }
+
+
+
+
+    aside .right-side{
+    	display:inline-block;
+width:40%;margin-left:80px;
+    }
+   aside .right-side span {
+padding:20px;text-transform:uppercase;color:#01010130;display:inline-block;
+    }
+   aside .right-side h2{
+padding:5px;text-transform:uppercase;text-transform: capitalize;color:#8F8F8F;width:550px;
+    }
+  aside  .right-side p{
+
+text-align:justify;
+    }
+    .main-footer{
+
+    	width:100%;
+    	background-color:#F0F0F0;
+    }
+
+.fotter-left{width:75%;display:inline-block;}
+
+    .fotter-left p{
+			display:inline-block;margin-left:70px;text-transform: capitalize;
+    }
+
+    .fotter-left h4{
+display:inline-block;margin-left:20px;text-transform: capitalize;
+
+    }
+
+.fotter-right{
+width:20%;display:inline-block;
+}
+.fotter-right a{
+display:inline-block;text-decoration:none;color:black;text-transform: uppercase;margin:5px;font-weight:900;}
+
+
+    .fotter-right img{
+
+    	width:20px;
+    	height:20px;color:black;
+    }
